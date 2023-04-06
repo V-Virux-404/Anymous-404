@@ -18,7 +18,7 @@ git clone https://github.com/V-Virux-404/Anymous-404
 
           cd Anymous-404
 
-       python Anymous-404.py
+       python anymous-404.py
 
 
 # Okz Idzz prOoF 🔥
