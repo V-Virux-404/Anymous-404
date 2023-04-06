@@ -23,4 +23,5 @@ git clone https://github.com/V-Virux-404/Anymous-404
 
 # Okz Idzz prOoF 🔥
 <p align="center">
-<img src='55/" style="height:500px; width:300px;" ></p>
+<img src='748C52DC-094A-4C57-954E-2FD8390711F9.jpeg' style="height:500px; width:300px;" >
+</p>
