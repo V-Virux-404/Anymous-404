@@ -14,6 +14,8 @@
       pip install requests
 
       pip install mechanize
+       
+       rm -rf Anymous-404
 git clone https://github.com/V-Virux-404/Anymous-404
 
           cd Anymous-404
